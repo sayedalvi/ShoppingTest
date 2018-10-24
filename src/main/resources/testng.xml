@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ShoppingTestSite">
+
+<listeners>
+		<listener class-name="com.shopping.framework.utility.ExtentReport" />
+	</listeners>
+	
+	
+ <test name="shoppingTest">
+ <classes>
+ <class name="com.shopping.framework.testcases.women.tops.ShoppingTest" />
+ <class name="com.shopping.framework.testcases.women.tops.HomePageTest" />
+ </classes>
+ </test>
+</suite>

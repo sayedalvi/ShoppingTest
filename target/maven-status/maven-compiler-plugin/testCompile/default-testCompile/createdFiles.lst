@@ -1,0 +1,5 @@
+com\shopping\framework\utility\LaunchApplication.class
+com\shopping\framework\utility\ExtentReport.class
+com\shopping\framework\utility\ConfigReader.class
+com\shopping\framework\testcases\women\tops\HomePageTest.class
+com\shopping\framework\testcases\women\tops\ShoppingTest.class

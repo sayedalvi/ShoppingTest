@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ShoppingTestSite" duration-ms="19047" started-at="2018-10-24T08:15:22Z" finished-at="2018-10-24T08:15:41Z">
+    <groups>
+    </groups>
+    <test name="shoppingTest" duration-ms="19047" started-at="2018-10-24T08:15:22Z" finished-at="2018-10-24T08:15:41Z">
+      <class name="com.shopping.framework.testcases.women.tops.HomePageTest">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.shopping.framework.testcases.women.tops.HomePageTest@13fee20c]" name="add" duration-ms="0" started-at="2018-10-24T08:15:41Z" finished-at="2018-10-24T08:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="divide()[pri:0, instance:com.shopping.framework.testcases.women.tops.HomePageTest@13fee20c]" name="divide" duration-ms="0" started-at="2018-10-24T08:15:41Z" finished-at="2018-10-24T08:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method status="PASS" signature="mult()[pri:0, instance:com.shopping.framework.testcases.women.tops.HomePageTest@13fee20c]" name="mult" duration-ms="0" started-at="2018-10-24T08:15:41Z" finished-at="2018-10-24T08:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.shopping.framework.testcases.women.tops.HomePageTest@13fee20c]" name="sub" duration-ms="1" started-at="2018-10-24T08:15:41Z" finished-at="2018-10-24T08:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.shopping.framework.testcases.women.tops.HomePageTest -->
+      <class name="com.shopping.framework.testcases.women.tops.ShoppingTest">
+        <test-method status="PASS" signature="verifySortDropDownItems()[pri:0, instance:com.shopping.framework.testcases.women.tops.ShoppingTest@64616ca2]" name="verifySortDropDownItems" duration-ms="19017" started-at="2018-10-24T08:15:22Z" finished-at="2018-10-24T08:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortDropDownItems -->
+      </class> <!-- com.shopping.framework.testcases.women.tops.ShoppingTest -->
+    </test> <!-- shoppingTest -->
+  </suite> <!-- ShoppingTestSite -->
+</testng-results>
